@@ -1,0 +1,1 @@
+Conjunto de exercícios desenvolvidos com o objetivo de praticar a criação e o uso de funções em JavaScript. As atividades variam desde funções simples até exemplos com parâmetros, retornos de valor e chamadas condicionais. Este projeto foi essencial para consolidar a lógica de programação e o reaproveitamento de código.
